@@ -20,7 +20,7 @@ The challenge is a FASTQ file. This format is used for DNA and each read (DNA se
 	3. Nothing important
 	4. Quality scores
 
-You can solve this using two approaches: 1) identify the read with higher quality scores (everything as I); or 2) getting all DNA sequences and encode them. The encoding map of the ACGT is the following:
+You can solve this using two approaches: 1) identify the read with higher quality scores (everything as I); or 2) getting all DNA sequences and decode them. The encoding map of the ACGT is the following:
 
 	- "A":"00"
 	- "C":"01"
