@@ -20,7 +20,7 @@ Aveiro is beautiful, but we challenge you to explore its hidden spots.
 ```
 The provided image contains a .zip file inside. 
 
-$ binwalk -e kasisky_aveiro.png 
+$ binwalk -e kasiski_aveiro.png 
 
 This extracts the zip file. Then, use JohnTheRipper to crack the password.
 $ zip2john file.zip > hash.txt
@@ -38,7 +38,7 @@ After reading the QR code, you are presented with a string of characters, procee
 	-> decode hex from the result of the previous step
 	-> decypher vigenere using key "aveiro" from the result of the previous step
 
-The vigenere step is not random. The filename of the image is kasisky_aveiro.png, being kasisky method used to break vigenere cipher (thus inducting that vigenere is present) and aveiro being the key.
+The vigenere step is not random. The filename of the image is kasiski_aveiro.png, being kasiski method used to break vigenere cipher (thus inducting that vigenere is present) and aveiro being the key.
 ```
 
 **FLAG**
