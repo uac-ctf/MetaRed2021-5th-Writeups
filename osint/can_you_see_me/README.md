@@ -13,7 +13,8 @@ easy
 
 **DESCRIPTION**
 ```
-Our friend, known as the ghost in the wires,  finds his ways through the tactile pavings of the University of Aveiro. Can you help us find him on IG? He might be lost.
+Our friend, known as the ghost in the wires,  finds his ways through the tactile pavings of the University of Aveiro. 
+Can you help us find him on IG? He might be lost.
 ```
 
 **SOLVE**
@@ -26,7 +27,7 @@ The social media network is Instagram which is also given on the description.
 
 Then the process to go to University of Aveiro followers' and search for Kevin Mitnick's account which is [this one](https://www.instagram.com/kv_mitnick/)
 
-On the account there are multiple references that the account user is blind (not related to the real Kevin Mitnick).
+On the account there are multiple references that the account user is blind (not related to the real Kevin Mitnick). Also, on the challenge description it's said that he "finds his way through the tactile pavings" which are special ridges on the floor that are used to guide blind people by guiding their [white cane](https://en.wikipedia.org/wiki/White_cane)
 
 On the first post in the account, the description gives a hint of the user hoping the photo can be described to them. 
 
