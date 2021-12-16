@@ -25,17 +25,17 @@ It's also known that the person is in the University of Aveiro.
 
 The social media network is Instagram which is also given on the description.
 
-Then the process to go to University of Aveiro followers' and search for Kevin Mitnick's account which is [this one](https://www.instagram.com/kv_mitnick/)
+Then the process is to go to University of Aveiro followers' and search for Kevin Mitnick's account which is [this one](https://www.instagram.com/kv_mitnick/)
 
-On the account there are multiple references that the account user is blind (not related to the real Kevin Mitnick). Also, on the challenge description it's said that he "finds his way through the tactile pavings" which are special ridges on the floor that are used to guide blind people by guiding their [white cane](https://en.wikipedia.org/wiki/White_cane)
+On the account there are multiple references that the account user is blind (not related to the real Kevin Mitnick). Also, on the challenge description it's said that he "finds his way through the tactile pavings" which are special ridges on the floor that are used to by blind people to guide their [white cane](https://en.wikipedia.org/wiki/White_cane)
 
-On the first post in the account, the description gives a hint of the user hoping the photo can be described to them. 
+On the first post in the account, the description gives a hint that the user hopes the photo can be described to them. 
 
 Instagram allows to add alt-text to posts. This text can be read with a voice-over app that reads the screen content to the users. 
 
 The flag was inserted in this post's alt-text. The objective is to listen to the flag being spelled.
 
-Solutions included this method or the method of viewing Instagram's source code in which the flag is defined in the alt tag atribute of the image html tag. 
+Solutions included this method or the method of viewing Instagram's source code in which the flag is defined in the alt tag atribute of an html tag. 
 
 The flag was case insensitive since in the spelling method there is no way of telling which letters are upper or lower case.
 ```
