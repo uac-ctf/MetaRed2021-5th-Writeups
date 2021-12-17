@@ -11,7 +11,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 03 | Done    | misc | Mutant Fly 			 	| thiefCatcher |
 | 04 | Done    | crypto | Tribute 				| botto |
 | 05 | ------- | crypto | Treasure 			 	| Dinis | 
-| 06 | ------- | forensics | Happy meal 		| thiefCatcher | 
+| 06 | Done    | forensics | Happy meal 		| thiefCatcher | 
 | 07 | Done    | misc | Compilers class 		| thiefCatcher | 
 | 08 | Done    | osint | Follow the teacher 	| thiefCatcher | 
 | 09 | ------- | forensics | Supply games 		| orang3 and duarte | 
