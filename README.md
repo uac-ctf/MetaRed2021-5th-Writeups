@@ -16,9 +16,9 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 08 | Done    | osint | Follow the teacher 	| thiefCatcher | 
 | 09 | ------- | forensics | Supply games 		| orang3 and duarte | 
 | 10 | Done    | crypto | 1White0Black 			| botto | 
-| 11 | ------- | web | Path to Blog(/) 			| randN | 
+| 11 | Done    | web | Path to Blog(/) 			| randN | 
 | 12 | ------- | web | Repeated lock 			| randN |
-| 13 | ------- | web | Vulns? None 				| randN |
+| 13 | Done    | web | Vulns? None 				| randN |
 | 14 | ------- | web | Back to Basic Web 		| orang3 | 
 | 15 | ------- | pwn | Jump King 				| randN | 
 
