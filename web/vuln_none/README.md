@@ -11,7 +11,7 @@ Cookies? None
 
 ## Solve
 
-Accessing the link provided in the challenge, a web page is provided with a simple login and register. Registering an account and login in after, a new link appears (*/administration*) and a cookie **token**.
+Accessing the link provided in the challenge, a web page is served with a simple login and register. Registering an account and login in after, a new link appears (*/administration*) and a cookie **token**.
 
 ![Alt text](https://github.com/uac-ctf/MetaRed2021-5th-Writeups/blob/master/web/vuln_none/images/after_login.png?raw=true)
 
