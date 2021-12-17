@@ -42,7 +42,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 
 | No | Status  | Category | Name     			| Creator(s) | 
 | -- | ------- | -------- | ------------------- | ------- | 
-| 01 | ------- | misc | Private area 			| thiefCatcher and Rackham |
+| 01 | Done    | misc | Private area 			| thiefCatcher and Rackham |
 | 02 | Done    | rev | Thief 					| thiefCatcher | 
 | 03 | Done[1] | forensics | USB found 			| unterd0g |
 | 04 | ------- | pwn | Class manager 			| Rackham | 
