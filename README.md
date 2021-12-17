@@ -7,15 +7,15 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | No | Status  | Category | Name                | Creator(s) |
 | -- | ------- | -------- | ------------------- | ------- |
 | 01 | ------- | osint | Cybersecurity classes  | thiefCatcher and Rackham |
-| 02 | Done | osint | Can you see me? 		| botto |
+| 02 | Done	   | osint | Can you see me? 		| botto |
 | 03 | Done    | misc | Mutant Fly 			 	| thiefCatcher |
-| 04 | Done | crypto | Tribute 				| botto |
+| 04 | Done    | crypto | Tribute 				| botto |
 | 05 | ------- | crypto | Treasure 			 	| Dinis | 
 | 06 | ------- | forensics | Happy meal 		| thiefCatcher | 
 | 07 | Done    | misc | Compilers class 		| thiefCatcher | 
-| 08 | ------- | osint | Follow the teacher 	| thiefCatcher | 
+| 08 | Done    | osint | Follow the teacher 	| thiefCatcher | 
 | 09 | ------- | forensics | Supply games 		| orang3 and duarte | 
-| 10 | Done | crypto | 1White0Black 			| botto | 
+| 10 | Done    | crypto | 1White0Black 			| botto | 
 | 11 | ------- | web | Path to Blog(/) 			| randN | 
 | 12 | ------- | web | Repeated lock 			| randN |
 | 13 | ------- | web | Vulns? None 				| randN |
