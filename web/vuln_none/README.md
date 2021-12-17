@@ -13,13 +13,13 @@ Cookies? None
 
 Accessing the link provided in the challenge, a web page is provided with a simple login and register. Registering an account and login in after, a new link appears (*/administration*) and a cookie **token**.
 
-![[images/after_login.png]]
+![Alt text](https://github.com/uac-ctf/MetaRed2021-5th-Writeups/blob/master/web/vuln_none/images/after_login.png?raw=true)
 
 Accessing the administration page we are received with: **No bussiness here!**.
 
 Looking into the token, by the way its constructed looks like a JWT. Using https://jwt.io/ to decode it, the results are:
 
-![[images/jwt_headers.png]]
+![Alt text](https://github.com/uac-ctf/MetaRed2021-5th-Writeups/blob/master/web/vuln_none/images/jwt_headers.png?raw=true)
 
 Meet the "None" Algorithm: https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/
 A simple python scripts allows us to craft a JWT with the None algorithm.
