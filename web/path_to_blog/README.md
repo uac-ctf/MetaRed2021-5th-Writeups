@@ -29,7 +29,7 @@ The **read_flag** binary has the setuid (and setgid) bit set, so we can run the 
 
 ![Alt text](https://github.com/uac-ctf/MetaRed2021-5th-Writeups/blob/master/web/path_to_blog/images/read_flag.png?raw=true)
 
-Looking into the code we can see that it gets the current user id and checks if it's equal to zero. If this condition is met we will be able to read the flag, and in order to do this we can explore a buffer overflow vulnerability when reading a string (**gets(input)**).
+Looking into the code we can see that it gets the current user id and checks if it's equal to zero. If this condition is met we will be able to read the flag, and in order to do this we can explore a buffer overflow vulnerability when reading a string (**gets(input)**). A good example how to explore this problem, <https://0xrick.github.io/binary-exploitation/bof2/>.
 To make it easy, let's write the payload to a file and then **cat** the contents of it to the **read_flag** binary.
 
 ![Alt text](https://github.com/uac-ctf/MetaRed2021-5th-Writeups/blob/master/web/path_to_blog/images/flag.png?raw=true)
