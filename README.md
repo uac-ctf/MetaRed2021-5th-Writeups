@@ -6,7 +6,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 
 | No | Status  | Category | Name                | Creator(s) |
 | -- | ------- | -------- | ------------------- | ------- |
-| 01 | ------- | osint | Cybersecurity classes  | thiefCatcher and Rackham |
+| 01 | Done    | osint | Cybersecurity classes  | thiefCatcher and Rackham |
 | 02 | Done	   | osint | Can you see me? 		| botto |
 | 03 | Done    | misc | Mutant Fly 			 	| thiefCatcher |
 | 04 | Done    | crypto | Tribute 				| botto |
