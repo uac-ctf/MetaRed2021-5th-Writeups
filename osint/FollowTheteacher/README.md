@@ -13,6 +13,7 @@ A student was stalking the teacher from eletronic classes every day during 6 wee
 
 Each week (7 days) represent a character, and each day contains 2 coordinates or none. This can be addressed using a 7 segment display to draw each character (day 1: segment A, day 2: segment B, etc, see this link: https://en.wikichip.org/wiki/seven-segment_display/representing_letters)
 
+![detiua](https://user-images.githubusercontent.com/17878072/146471814-10329776-36df-4128-bb4e-209414052342.png)
 
 ## Flag
 
