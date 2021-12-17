@@ -14,6 +14,8 @@ The bots.zip contains a git repository with a python script. This repository has
 
 To see the flag, it is necessary to open the file in a hex editor/visualizer. For instance, the command xxd is enough.
 
+<img width="745" alt="Captura de ecra" src="https://user-images.githubusercontent.com/17878072/146541849-efd2fb0f-e638-45ed-87ff-698837c26ac3.png">
+
 
 ## Flag
 
