@@ -19,7 +19,7 @@ Doing a quick google search about vulnerabilities in Apache... <https://httpd.ap
 
 Let's test it out:
 
-![[whoami.png]]
+![Alt text](https://github.com/uac-ctf/MetaRed2021-5th-Writeups/blob/master/web/path_to_blog/images/whoami.png?raw=true)
 
 Now we know that we can execute commands with the **daemon** user. Let's list the contents of the current dir, maybe we can find more useful information. There are two files that by the name of them must be the path that we should take to solve the challenge.
 
