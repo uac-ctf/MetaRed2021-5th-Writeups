@@ -30,7 +30,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 01 | ------- | pwn | Academic Raspberry Major	| Rackham | 
 | 02 | ------- | pwn | Leaky shell 				| Rackham | 
 | 03 | ------- | crypto | Photo gallery  		| Rackham | 
-| 04 | ------- | forensics | Valve release 		| unterd0g |
+| 04 | Done[1] | forensics | Valve release 		| unterd0g |
 | 05 | ------- | rev | Twitting 				| Rackham | 
 | 06 | ------- | web | Authentication hardening	| randN | 
 | 07 | ------- | web | Credits 					| Rackham | 
@@ -44,6 +44,8 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | -- | ------- | -------- | ------------------- | ------- | 
 | 01 | ------- | misc | Private area 			| thiefCatcher and Rackham |
 | 02 | Done    | rev | Thief 					| thiefCatcher | 
-| 03 | ------- | forensics | USB found 			| unterd0g |
+| 03 | Done[1] | forensics | USB found 			| unterd0g |
 | 04 | ------- | pwn | Class manager 			| Rackham | 
 | 05 | ------- | rev | License checker 			| Rackham |
+
+[1] - Early Access; the contents may change.
