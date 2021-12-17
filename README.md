@@ -10,7 +10,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 02 | Done	   | osint | Can you see me? 		| botto |
 | 03 | Done    | misc | Mutant Fly 			 	| thiefCatcher |
 | 04 | Done    | crypto | Tribute 				| botto |
-| 05 | ------- | crypto | Treasure 			 	| Dinis | 
+| 05 | Done    | crypto | Treasure 			 	| Dinis | 
 | 06 | Done    | forensics | Happy meal 		| thiefCatcher | 
 | 07 | Done    | misc | Compilers class 		| thiefCatcher | 
 | 08 | Done    | osint | Follow the teacher 	| thiefCatcher | 
@@ -36,7 +36,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 07 | ------- | web | Credits 					| Rackham | 
 | 08 | ------- | web | The team 				| randN |
 | 09 | ------- | forensics | Its full of bits 	| Rackham | 
-| 10 | ------- | misc | Bingo 					| Dinis | 
+| 10 | Done | misc | Bingo 					| Dinis | 
 
 ### Hard (5)
 
