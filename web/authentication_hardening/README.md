@@ -39,7 +39,7 @@ Visiting the **admin** page an _Internal server error_ occurs, so we must be on 
 
 ![Alt text](https://github.com/uac-ctf/MetaRed2021-5th-Writeups/blob/master/web/authentication_hardening/images/forged_jwt.png?raw=true)
 
-Now we just need to use the this jwt and access the **admin** page.
+Now we just need to use this jwt and access the **admin** page.
 
 ## Flag
 CTFUA{Sec0nd_jWt_0rd3r_RlRXCg==}
