@@ -20,7 +20,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 12 | ------- | web | Repeated lock 			| randN |
 | 13 | Done    | web | Vulns? None 				| randN |
 | 14 | ------- | web | Back to Basic Web 		| orang3 | 
-| 15 | ------- | pwn | Jump King 				| randN | 
+| 15 | Done    | pwn | Jump King 				| randN | 
 
 
 ### Medium (10)
@@ -32,11 +32,11 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 03 | ------- | crypto | Photo gallery  		| Rackham | 
 | 04 | Done[1] | forensics | Valve release 		| unterd0g |
 | 05 | ------- | rev | Twitting 				| Rackham | 
-| 06 | ------- | web | Authentication hardening	| randN | 
+| 06 | Done    | web | Authentication hardening	| randN | 
 | 07 | ------- | web | Credits 					| Rackham | 
 | 08 | ------- | web | The team 				| randN |
 | 09 | ------- | forensics | Its full of bits 	| Rackham | 
-| 10 | Done | misc | Bingo 					| Dinis | 
+| 10 | Done    | misc | Bingo 					| Dinis | 
 
 ### Hard (5)
 
