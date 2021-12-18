@@ -14,10 +14,10 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 06 | Done    | forensics | Happy meal 		| thiefCatcher | 
 | 07 | Done    | misc | Compilers class 		| thiefCatcher | 
 | 08 | Done    | osint | Follow the teacher 	| thiefCatcher | 
-| 09 | ------- | forensics | Supply games 		| orang3 and duarte | 
+| 09 | Done    | forensics | Supply games 		| orang3 and duarte | 
 | 10 | Done    | crypto | 1White0Black 			| botto | 
 | 11 | Done    | web | Path to Blog(/) 			| randN | 
-| 12 | ------- | web | Repeated lock 			| randN |
+| 12 | Done    | web | Repeated lock 			| randN |
 | 13 | Done    | web | Vulns? None 				| randN |
 | 14 | ------- | web | Back to Basic Web 		| orang3 | 
 | 15 | Done    | pwn | Jump King 				| randN | 
