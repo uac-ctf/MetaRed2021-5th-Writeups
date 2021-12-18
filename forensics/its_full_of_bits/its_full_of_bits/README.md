@@ -1,4 +1,4 @@
-# ## Its full of bits
+# Its full of bits
 
 **Author:** rackham
 **Category:** forensics
