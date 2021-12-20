@@ -34,7 +34,7 @@ Write-ups for CTF Internacional MetaRed 2021 5th stage
 | 05 | ------- | rev | Twitting 				| Rackham | 
 | 06 | Done    | web | Authentication hardening	| randN | 
 | 07 | ------- | web | Credits 					| Rackham | 
-| 08 | ------- | web | The team 				| randN |
+| 08 | Done    | web | The team 				| randN |
 | 09 | ------- | forensics | Its full of bits 	| Rackham | 
 | 10 | Done    | misc | Bingo 					| Dinis | 
 
